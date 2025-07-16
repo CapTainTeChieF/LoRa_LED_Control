@@ -39,5 +39,5 @@ Both LoRa modules use:
 
 ## 📂 File Structure
 
-- `transmitter/`: Code for button press sender
-- `receiver/`: Code for LED controller
+- `transmitter/transmitter.ino`: Code for button press sender
+- `receiver/receiver.ino`: Code for LED controller
